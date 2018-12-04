@@ -2,6 +2,7 @@ atom-beautify@0.33.4
 atom-ide-ui@0.13.0
 atom-runner@2.7.1
 atom-typescript@12.7.3
+audio@1.5.7
 autocomplete-paths@2.12.2
 busy-signal@1.4.3
 color-picker@2.3.0
