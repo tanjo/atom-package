@@ -24,6 +24,7 @@ language-pug@0.0.22
 language-slim@1.0.0
 language-vue@0.23.1
 linter@2.2.0
+linter-sass-lint@1.8.3
 linter-ui-default@1.7.1
 markdown-pdf@2.2.0
 markdown-scroll-sync@2.1.2
