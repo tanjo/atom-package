@@ -33,5 +33,6 @@ pretty-json@2.0.3
 regex-railroad-diagram@0.19.4
 ruby-block@0.3.6
 show-ideographic-space@1.0.2
+symbols-tree-view@0.14.0
 todo-show@2.3.2
 
