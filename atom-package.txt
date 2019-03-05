@@ -13,7 +13,6 @@ highlight-selected@0.14.0
 ide-css@0.3.2
 ide-html@0.4.2
 ide-java@0.8.3
-ide-json@0.2.1
 ide-python@1.1.0
 ide-typescript@0.8.0
 ide-yaml@0.4.4
