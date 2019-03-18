@@ -10,6 +10,7 @@ es6-javascript@1.0.0
 file-icons@2.1.31
 git-diff-details@1.4.0
 goto-definition@1.3.4
+ide-typescript@0.8.0
 intentions@1.1.5
 language-diff@0.7.0
 language-groovy@0.7.0
