@@ -1,10 +1,9 @@
 atom-beautify@0.33.4
 atom-html-preview@0.2.6
 atom-runner@2.7.1
-atom-typescript@13.1.0
 audio@1.5.7
 autocomplete-paths@2.12.2
-busy-signal@2.0.0
+busy-signal@2.0.1
 color-picker@2.3.0
 es6-javascript@1.0.0
 file-icons@2.1.30
