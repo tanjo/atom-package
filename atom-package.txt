@@ -1,5 +1,4 @@
 atom-beautify@0.33.4
-atom-ctags@5.1.2
 atom-html-preview@0.2.6
 atom-ide-ui@0.13.0
 atom-runner@2.7.1
