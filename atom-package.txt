@@ -21,6 +21,7 @@ language-vue@0.24.0
 linter@2.3.0
 linter-rubocop@2.4.2
 linter-sass-lint@1.9.0
+linter-slim-lint@2.0.0
 linter-ui-default@1.7.1
 markdown-pdf@2.2.0
 markdown-scroll-sync@2.1.2
